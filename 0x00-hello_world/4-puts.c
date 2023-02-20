@@ -1,7 +1,7 @@
-#include < studio.h
+#include <studio.h>
 /**
- * main - A program that prints a line with puts function
- * Retur: 0 (Success)
+ * main - main entry point
+ * return : always 0 (success)
  */
 int main(void)
 {
